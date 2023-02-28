@@ -1,0 +1,13 @@
+.classpath
+.project
+.DS_Store
+test.log
+*/target/
+.idea/
+app/test/test-output/
+app/test/velocity.log
+*.log
+target/
+*.iml
+asset-unify.ipr
+asset-unify.iws
