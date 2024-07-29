@@ -22,6 +22,8 @@
     </build>
     <modules>
         <module>load-balance</module>
+        <module>bit</module>
+        <module>assert</module>
     </modules>
 
     <properties>
